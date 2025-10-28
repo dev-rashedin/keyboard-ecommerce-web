@@ -14,9 +14,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
+    "eslint-prettier": "^0.0.0-empty",
     "express": "^5.1.0",
     "express-error-toolkit": "^1.2.0",
-    "http-status-toolkit": "^2.0.0"
+    "http-status-toolkit": "^2.0.0",
+    "lint-staged": "^16.2.6"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
